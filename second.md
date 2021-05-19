@@ -1,3 +1,3 @@
 ## A markdown document
 
-** Welcome to my GitHub for Assignemnt 1 **
+* Welcome to my GitHub for Assignemnt 1 *
